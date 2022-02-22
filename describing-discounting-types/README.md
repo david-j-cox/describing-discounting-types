@@ -1,7 +1,5 @@
-{{cookiecutter.project_name}}
+describing-discounting-types
 ==============================
-
-{{cookiecutter.description}}
 
 Project Organization
 ------------
